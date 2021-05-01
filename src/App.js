@@ -22,7 +22,7 @@ function App() {
          <Route path="/portfolio" component={Portfolio}/>
          <Route path="/" component={Home}/>
       </main>
-      <footer>Alex Reveles</footer> 
+      <footer> &copy; 2021 Alex Reveles, Inc</footer> 
     </div>
     </Router>
   );
