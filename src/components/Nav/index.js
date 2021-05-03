@@ -5,11 +5,11 @@ import { Link } from "react-router-dom";
 
 function Nav() {
   return (
-    <nav class="navbar navbar-expand-lg navbar-light bg-light">
-      <div class="container-fluid">
-        <a class="navbar-brand">Alex Reveles</a>
+    <nav className="nav  navbar-expand-lg navbar-light bg-light">
+      <div className="container-fluid background-image-banner">
+        {/* <h1 className="navbar-brand">Alex Reveles</h1> */}
         <button
-          class="navbar-toggler"
+          className="navbar-toggler"
           type="button"
           data-bs-toggle="collapse"
           data-bs-target="#navbarSupportedContent"
@@ -17,27 +17,32 @@ function Nav() {
           aria-expanded="false"
           aria-label="Toggle navigation"
         >
-          <span class="navbar-toggler-icon"></span>
+          <span className="navbar-toggler-icon"></span>
         </button>
-        <div class="collapse navbar-collapse" id="navbarSupportedContent">
-          <ul class="navbar-nav me-auto mb-2 mb-lg-0">
-            <li class="nav-item">
-              <Link class="nav-link active" to="/about">
+        <div className="collapse navbar-collapse" id="navbarSupportedContent">
+          <ul className="navbar-nav me-auto mb-2 mb-lg-0">
+            <li className="nav-item">
+              <Link className="nav-name" to="/about">
+                Alex Reveles
+              </Link>
+            </li>
+            <li className="nav-item">
+              <Link className="nav-link active" to="/about">
                 About
               </Link>
             </li>
-            <li class="nav-item">
-              <Link class="nav-link active" to="/portfolio">
+            <li className="nav-item">
+              <Link className="nav-link active" to="/portfolio">
                 Portfolio
               </Link>
             </li>
-            <li class="nav-item">
-              <Link class="nav-link active" to="/contact">
+            <li className="nav-item">
+              <Link className="nav-link active" to="/contact">
                 Contact
               </Link>
             </li>
-            <li class="nav-item">
-              <Link class="nav-link active" to="/resume">
+            <li className="nav-item">
+              <Link className="nav-link active" to="/resume">
                 Resume
               </Link>
             </li>

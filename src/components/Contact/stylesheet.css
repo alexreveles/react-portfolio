@@ -1,0 +1,23 @@
+h1 {
+  color: white;
+  font-family: sans-serif;
+}
+
+.name {
+  color: white;
+  font-size: x-large;
+}
+
+.email {
+  color: white;
+  font-size: x-large;
+}
+
+.message {
+  color: white;
+  font-size: x-large;
+}
+
+.jumbotron {
+  background: #55678b;
+}

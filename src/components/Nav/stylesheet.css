@@ -1,3 +1,39 @@
-h1 {
-    
+.nav-name {
+  color: white;
+  font-size: xx-large;
+  font-family: garamond;
+  font-weight: bold;
+  margin-left: 50px;
+  text-decoration: none;
+  text-align: center;
+  padding: 14px 16px;
+}
+a:hover {
+  color: #55678b;
+  text-decoration: none;
+}
+
+.navbar-light .navbar-nav .nav-link.active {
+  color: white;
+  justify-content: right;
+  font-size: x-large;
+  font-family: sans-serif;
+  margin-left: 50px;
+  text-decoration: none;
+  float: left;
+  text-align: center;
+  padding: 14px 16px;
+}
+
+.navbar-light .navbar-nav .nav-link.active:hover {
+  color: #55678b;
+  justify-content: right;
+  font-size: x-large;
+  font-family: sans-serif;
+  margin-left: 50px;
+  text-decoration: underline;
+}
+
+.container-fluid .background-image-banner {
+  justify-content: right;
 }

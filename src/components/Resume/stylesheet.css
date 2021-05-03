@@ -1,0 +1,22 @@
+h1 {
+  color: white;
+  font-size: 7em;
+  font-family: sans-serif;
+}
+
+h3 {
+    color: white;
+    font-family: sans-serif;
+}
+
+.card-header {
+    background-color: #55678b;
+    font-family: sans-serif;
+}
+.card-body {
+    background-color: #55678b;
+}
+
+li {
+    color: white;
+}
