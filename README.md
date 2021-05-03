@@ -26,9 +26,9 @@ so that I can assess whether they're a good candidate for an open position.
   ## Test
   The following is needed to run the test: `npm start`.
   ## Questions
-  If you have any questions regarding about the application, please contact me https://github.com/alexreveles or alexreveles@yahoo.com
+  If you have any questions regarding about the application, please contact me.
 * [Github](https://github.com/alexreveles)
-* [Email](https://alexreveles@yahoo.com)
+* [Email](https://alexreveles@yahoo.com) alexreveles@yahoo.com
 
 
 ### https://github.com/alexreveles/react-portfolio
