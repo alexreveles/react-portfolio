@@ -28,7 +28,7 @@ so that I can assess whether they're a good candidate for an open position.
   ## Questions
   If you have any questions regarding about the application, please contact me https://github.com/alexreveles or alexreveles@yahoo.com
 * [Github](https://github.com/alexreveles)
-* [Email](alexreveles@yahoo.com)
+* [Email] alexreveles@yahoo.com
 
 
 ### https://github.com/alexreveles/react-portfolio
