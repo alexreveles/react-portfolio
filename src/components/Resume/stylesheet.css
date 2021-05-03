@@ -1,6 +1,6 @@
 h1 {
   color: white;
-  font-size: 7em;
+  font-size: 50px;
   font-family: sans-serif;
 }
 
@@ -12,9 +12,11 @@ h3 {
 .card-header {
     background-color: #55678b;
     font-family: sans-serif;
+    
 }
 .card-body {
     background-color: #55678b;
+    /* pointer-events: none;  */
 }
 
 li {

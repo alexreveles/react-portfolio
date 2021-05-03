@@ -4,6 +4,7 @@ body {
   padding: 0;
   background: #2f394d;
   font-family: sans-serif;
+  
 }
 
 
@@ -26,18 +27,7 @@ main {
   font-family: Georgia, "Times New Roman", Times, serif;
 }
 
-.footer {
-  justify-content: center;
-  color: rgb(248, 249, 250);
-  background: #2f394d;
-  text-align: center;
-  font-size: large;
-  font-family: sans-serif;
-  font-family: Georgia, "Times New Roman", Times, serif;
-  position: absolute;
-  bottom: 0;
-  width: 100%;
-}
+
 
 form {
     width: 90%;
@@ -106,6 +96,19 @@ form {
 
   .p-5 {
     background: #2f394d;
+  }
+
+  .footer {
+    justify-content: center;
+    color: rgb(248, 249, 250);
+    background: #2f394d;
+    text-align: center;
+    font-size: large;
+    font-family: sans-serif;
+    font-family: Georgia, "Times New Roman", Times, serif;
+    position: absolute;
+    bottom: 0;
+    width: 100%;
   }
   
   @media (prefers-reduced-motion: no-preference) {

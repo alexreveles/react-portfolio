@@ -67,6 +67,9 @@ function Resume() {
                     <li>
                     Channel Islands University - B.A. in Sociology, May 18th, 2019.
                   </li>
+                  <br />
+                  <br />
+                  <br />
                   <li>
                     UCLA Full Stack Developer - Certificate of Completion, June
                     6th, 2021.
