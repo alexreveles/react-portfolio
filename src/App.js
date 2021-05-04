@@ -1,5 +1,6 @@
 import React from "react";
 import { HashRouter as Router, Route } from "react-router-dom";
+// import { GoMarkGithub } from "react-icons/go";
 import "./App.css";
 import "bootstrap/dist/css/bootstrap.min.css";
 import About from "./components/About";
@@ -8,6 +9,11 @@ import Portfolio from "./components/Portfolio";
 import Home from "./components/Home";
 import Resume from "./components/Resume";
 import Contact from "./components/Contact";
+import Footer from "./footer";
+// import Icons from "./components/Icons";
+
+
+
 
 function App() {
   return (
@@ -21,7 +27,8 @@ function App() {
           <Route path="/" component={Home} />
           <Route path="/contact" component={Contact} />
         </main>
-        <footer className="footer"> &copy; 2021 Alex Reveles, Inc</footer>
+        {/* <GoMarkGithub /> */}
+        <Footer />
       </div>
     </Router>
   );
