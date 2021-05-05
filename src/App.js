@@ -10,6 +10,7 @@ import Home from "./components/Home";
 import Resume from "./components/Resume";
 import Contact from "./components/Contact";
 import Footer from "./components/Footer";
+import { FaGithub } from 'react-icons/fa';
 // import Icons from "./components/Icons";
 
 function App() {
@@ -25,6 +26,7 @@ function App() {
           <Route path="/contact" component={Contact} />
         </main>
         {/* <GoMarkGithub /> */}
+        <FaGithub />
         <Footer />
       </div>
     </Router>
