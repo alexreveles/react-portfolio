@@ -9,5 +9,10 @@
 }
 
 h1 {
-    font-size: 50px;
+  font-size: 50px;
+}
+
+p {
+  font-size: large;
+  font-weight:600
 }

@@ -27,9 +27,9 @@ function Portfolio() {
             <div className="card-body">
               <h5 className="card-title">Happy Tails</h5>
               <p className="card-text">
-                HTML | CSS | Materialize | JavaScript | Sequelize |
-                Node.js | Express.js | Handlebars | MySQL | RESTful API | ORM |
-                Heroku | brypt
+                HTML | CSS | Materialize | JavaScript | Sequelize | Node.js |
+                Express.js | Handlebars | MySQL | RESTful API | ORM | Heroku |
+                brypt
               </p>
             </div>
           </div>
@@ -51,8 +51,8 @@ function Portfolio() {
             <div className="card-body">
               <h5 className="card-title">Movie Hunt</h5>
               <p className="card-text">
-                HTML | CSS | Materialize |
-                JavaScript | JQuery|Modal <br /> <br />
+                HTML | CSS | Materialize | JavaScript | JQuery|Modal <br />{" "}
+                <br />
               </p>
             </div>
           </div>
@@ -86,17 +86,16 @@ function Portfolio() {
                 alt="weather-day-project"
               /> */}
               <img
-                src={require("../../assets/cover/weather-dashboard.png").default}
+                src={
+                  require("../../assets/cover/weather-dashboard.png").default
+                }
                 className="card-img-top"
                 alt="weather-day-project"
               />
             </a>
             <div className="card-body">
               <h5 className="card-title">Weather Dash Board</h5>
-              <p className="card-text">
-                HTML | CSS | Bootstrap |
-                JavaScript
-              </p>
+              <p className="card-text">HTML | CSS | Bootstrap | JavaScript</p>
             </div>
           </div>
         </div>
@@ -109,7 +108,9 @@ function Portfolio() {
                 alt="work-day-project"
               /> */}
               <img
-                src={require("../../assets/cover/workday-schedular.png").default}
+                src={
+                  require("../../assets/cover/workday-schedular.png").default
+                }
                 className="card-img-top"
                 alt="work-day-project"
               />
@@ -117,8 +118,7 @@ function Portfolio() {
             <div className="card-body">
               <h5 className="card-title">Work Day</h5>
               <p className="card-text">
-                HTML | CSS | Bootstrap |
-                jQuery | JavaScript
+                HTML | CSS | Bootstrap | jQuery | JavaScript
               </p>
             </div>
           </div>

@@ -1,12 +1,9 @@
 html,
 body {
-  
   padding: 0;
   background: #2f394d;
   font-family: sans-serif;
-  
 }
-
 
 main {
   background: #2f394d;
@@ -27,99 +24,107 @@ main {
   font-family: Georgia, "Times New Roman", Times, serif;
 }
 
-
-
 form {
-    width: 90%;
-  }
-  
-  .contact-form {
-    padding: 25px 5% 10px 5%;
-    background: #2f394d;
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
-    align-items: center;
-    border-radius: 5px;
-  }
-  
-  button {
-    border-radius: 10px !important;
-    font-size: 1rem;
-    font-weight: bold;
-    text-decoration: none;
-    margin: 0 0 15px 0;
-    padding: 1rem 1.5rem;
-    outline: none;
-    cursor: pointer;
-    color:#fff;
-    background: #2f394d;
-    transition: background-color ease-in-out 0.5s, opacity;
-  
-  }
-  
-  button:hover {
-    background-color:#171c26;
-    border-radius: 10px;
-  }
-  
-  label {
-    margin-right: 15px;
-    padding: 8px;
-    border-radius: 5px;
-    color: #fff;
-    font-weight: 600;
-    width:15%;
-  }
-  
-  input {
-    width: 500px;
-    font-size: 1rem;
-    padding: 0.25rem;
-    border: 1px solid #eee;
-    outline: none;
-    border-radius: 3px;
-    transition: box-shadow 0.2s;
-  }
-  .message-div {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-  }
-  textarea {
-      width: 500px;
-    border: 1px solid #eee;
-    border-radius: 3px;
-      padding: 5px;
-  }
+  width: 90%;
+}
 
+.contact-form {
+  padding: 25px 5% 10px 5%;
+  background: #2f394d;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  border-radius: 5px;
+}
 
-  .p-5 {
-    background: #2f394d;
+button {
+  border-radius: 10px !important;
+  font-size: 1rem;
+  font-weight: bold;
+  text-decoration: none;
+  margin: 0 0 15px 0;
+  padding: 1rem 1.5rem;
+  outline: none;
+  cursor: pointer;
+  color: #fff;
+  background: #2f394d;
+  transition: background-color ease-in-out 0.5s, opacity;
+}
+
+button:hover {
+  background-color: #171c26;
+  border-radius: 10px;
+}
+
+label {
+  margin-right: 15px;
+  padding: 8px;
+  border-radius: 5px;
+  color: #fff;
+  font-weight: 600;
+  width: 15%;
+}
+
+input {
+  width: 500px;
+  font-size: 1rem;
+  padding: 0.25rem;
+  border: 1px solid #eee;
+  outline: none;
+  border-radius: 3px;
+  transition: box-shadow 0.2s;
+}
+.message-div {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+textarea {
+  width: 500px;
+  border: 1px solid #eee;
+  border-radius: 3px;
+  padding: 5px;
+}
+
+.p-5 {
+  background: #2f394d;
+}
+
+/* .footer {
+  justify-content: center;
+  color: rgb(248, 249, 250);
+  background: #2f394d;
+  text-align: center;
+  font-size: large;
+  font-family: sans-serif;
+  font-family: Georgia, "Times New Roman", Times, serif;
+  bottom: 0;
+  width: 100%;
+  position: fixed;
+} */
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
   }
-  
-  @media (prefers-reduced-motion: no-preference) {
-    .App-logo {
-      animation: App-logo-spin infinite 20s linear;
-    }
-  }
-  
-  .App-header {
-    background: #2f394d;
-    min-height: 100vh;
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    justify-content: center;
-    font-size: calc(10px + 2vmin);
-    color: white;
-  }
-  
-  .App-link {
-    color: white;
-    font-weight:400;
-  }
-   span a{
-    color: white;
-  }
- 
+}
+
+.App-header {
+  background: #2f394d;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: white;
+  font-weight: 400;
+}
+span a {
+  color: white;
+}

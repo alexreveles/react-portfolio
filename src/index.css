@@ -12,7 +12,7 @@ code {
     monospace;
 } */
 
-.footer {
+/* .footer {
   margin-top: 1rem;
   padding: 5px;
   background-color: #2f394d;
@@ -20,6 +20,19 @@ code {
   bottom: 0;
   left: 0;
   width: 100%;
-  color:white;
+  color: white;
   text-align: center;
+} */
+
+.footer {
+  justify-content: center;
+  color: rgb(248, 249, 250);
+  background: #2f394d;
+  text-align: center;
+  font-size: large;
+  font-family: sans-serif;
+  font-family: Georgia, "Times New Roman", Times, serif;
+  bottom: 0;
+  width: 100%;
+  position: fixed;
 }

@@ -9,11 +9,8 @@ import Portfolio from "./components/Portfolio";
 import Home from "./components/Home";
 import Resume from "./components/Resume";
 import Contact from "./components/Contact";
-import Footer from "./footer";
+import Footer from "./components/Footer";
 // import Icons from "./components/Icons";
-
-
-
 
 function App() {
   return (

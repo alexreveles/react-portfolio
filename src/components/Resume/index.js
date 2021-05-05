@@ -34,6 +34,10 @@ function Resume() {
                   <li>Handlebars</li>
                   <li>Responsive Design</li>
                   <li>React</li>
+                  <br />
+                  <br />
+                  <br />
+                  <br />
                 </ul>
               </Card.Body>
             </Card>
@@ -53,6 +57,10 @@ function Resume() {
                   <li>Mongoose</li>
                   <li>REST</li>
                   <li>GraphQL</li>
+                  <br />
+                  <br />
+                  <br />
+                  <br />
                 </ul>
               </Card.Body>
             </Card>
@@ -64,12 +72,24 @@ function Resume() {
                   <h3>Certificates</h3>
                 </Card.Header>
                 <ul>
-                    <li>
-                    Channel Islands University - B.A. in Sociology, May 18th, 2019.
+                  <li>
+                    Ventura County Probation Agency - Student Worker, October
+                    2014 - January 2016.
                   </li>
-                  <br />
-                  <br />
-                  <br />
+
+                  <li>
+                    Bank of America - Head Teller, September 2017 - September
+                    2019.
+                  </li>
+                  <li>
+                    Channel Islands University - B.A. in Sociology, May 18th,
+                    2019.
+                  </li>
+
+                  <li>
+                    Staga Composites - Social Media Manager, November 2020 -
+                    Current.
+                  </li>
                   <li>
                     UCLA Full Stack Developer - Certificate of Completion, June
                     6th, 2021.
