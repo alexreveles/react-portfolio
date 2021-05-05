@@ -35,4 +35,7 @@ so that I can assess whether they're a good candidate for an open position.
 ### https://github.com/alexreveles
 
 ![](images/snapshot1.png)
+![](images/snapshot2.png)
+![](images/snapshot3.png)
+![](images/snapshot4.png)
 
