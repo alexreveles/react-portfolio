@@ -1,6 +1,5 @@
 import React from "react";
 import { HashRouter as Router, Route } from "react-router-dom";
-// import { GoMarkGithub } from "react-icons/go";
 import "./App.css";
 import "bootstrap/dist/css/bootstrap.min.css";
 import About from "./components/About";
@@ -11,6 +10,7 @@ import Resume from "./components/Resume";
 import Contact from "./components/Contact";
 import Footer from "./components/Footer";
 import { FaGithub } from 'react-icons/fa';
+import { GrLinkedin } from 'react-icons/fa';
 // import Icons from "./components/Icons";
 
 function App() {
@@ -25,8 +25,9 @@ function App() {
           <Route path="/" component={Home} />
           <Route path="/contact" component={Contact} />
         </main>
-        {/* <GoMarkGithub /> */}
-        <FaGithub />
+        
+        <GrLinkedin style={{color:'white'}} />
+        <FaGithub style={{color:'white'}} /> 
         <Footer />
       </div>
     </Router>
