@@ -4,8 +4,8 @@ import { GrLinkedin } from 'react-icons/gr';
 
 function index() {
     return (
-        <div className="icon">
-        <a className="icon" href="https://www.linkedin.com/mynetwork/">
+        <div className="icon inner-box">
+        <a className="icon" href="https://linkedin.com/in/alexreveles11">
         <GrLinkedin style={{color:'white'}} />
         </a> 
         <div>

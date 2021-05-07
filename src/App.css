@@ -1,21 +1,11 @@
 html,
 body {
-  padding: 19px;
   font-family: sans-serif;
   background-color: #2f394d;
-  padding:10px;
-  border:2px solid #2f394d;
-  
+  border: 2px solid #2f394d;
+  /* padding:10px; */
 }
 
-/* .body {
-  background-color: red;
-  
-} */
-
-/* main {
-  background: #2f394d;
-} */
 .background-image-banner {
   width: 100%;
   background: url("./assets/cover/background-image.jpeg");
@@ -52,7 +42,7 @@ button {
   cursor: pointer;
   color: #fff;
   background: #2f394d;
-  transition:  ease-in-out 0.5s, opacity;
+  transition: ease-in-out 0.5s, opacity;
 }
 button:hover {
   background-color: #171c26;
@@ -106,16 +96,13 @@ textarea {
   font-size: 30px;
   display: flex;
   justify-content: center;
-
+  padding: 1%;
 }
-
 
 .icon :hover {
   font-size: 28px;
   transition: box-shadow 0.2s;
   background-color: #171c26;
- 
-  
 }
 
 @media (prefers-reduced-motion: no-preference) {
@@ -140,16 +127,3 @@ textarea {
 span a {
   color: white;
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
