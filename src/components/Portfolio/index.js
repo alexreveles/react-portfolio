@@ -51,7 +51,9 @@ function Portfolio() {
             <div className="card-body">
               <h5 className="card-title">Movie Hunt</h5>
               <p className="card-text">
-                HTML | CSS | Materialize | JavaScript | JQuery|Modal <br />{" "}
+                HTML | CSS | Materialize | JavaScript | JQuery|Modal
+                <br />
+                <br />
                 <br />
               </p>
             </div>

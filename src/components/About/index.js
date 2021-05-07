@@ -21,6 +21,7 @@ function About() {
        Seeking to leverage broad development experience and hands-on technical expertise in a challenging role as a Front-end Developer.
 
       </p>
+      
     </section>
   );
 }

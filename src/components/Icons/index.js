@@ -1,7 +1,14 @@
-// import React from 'react';
-// import { FaBeer } from 'react-icons/fa';
-// class Question extends React.Component {
-//   render() {
-//     return <h3> Lets go for a <FaBeer />? </h3>
-//   }
-// }
+import React from 'react'
+import { FaGithub } from 'react-icons/fa';
+import { GrLinkedin } from 'react-icons/gr';
+
+function index() {
+    return (
+        <div>
+        <GrLinkedin style={{color:'white'}} />
+        <FaGithub style={{color:'white'}} /> 
+        </div>
+    )
+}
+
+export default index;

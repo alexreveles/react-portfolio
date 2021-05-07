@@ -1,8 +1,6 @@
 import React from "react";
 import "./stylesheet.css";
-
 import { Link } from "react-router-dom";
-
 function Nav() {
   return (
     <nav className="nav  navbar-expand-lg navbar-light bg-light">
@@ -20,11 +18,11 @@ function Nav() {
           <span className="navbar-toggler-icon"></span>
         </button>
         <div className="collapse navbar-collapse" id="navbarSupportedContent">
-          <ul className="navbar-nav me-auto mb-2 mb-lg-0">
+          <h1 className="nav-name" >
+            Alex Reveles
+          </h1>
+          <ul className="navbar-nav ml-auto mb-2 mb-lg-0">
             <li className="nav-item">
-              <Link className="nav-name" to="/about">
-                Alex Reveles
-              </Link>
             </li>
             <li className="nav-item">
               <Link className="nav-link active" to="/about">
