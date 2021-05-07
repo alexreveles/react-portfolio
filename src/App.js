@@ -5,7 +5,6 @@ import "bootstrap/dist/css/bootstrap.min.css";
 import About from "./components/About";
 import Nav from "./components/Nav";
 import Portfolio from "./components/Portfolio";
-import Home from "./components/Home";
 import Resume from "./components/Resume";
 import Contact from "./components/Contact";
 import Footer from "./components/Footer";
@@ -18,13 +17,14 @@ function App() {
       <div>
         <Nav></Nav>
         <main>
+          <Route exact path="/" component={About} /> 
           <Route path="/resume" component={Resume} />
           <Route path="/about" component={About} />
           <Route path="/portfolio" component={Portfolio} />
-          <Route exact path="/" component={Home} />
           <Route path="/contact" component={Contact} />
         </main>
         <Icons/>
+       
       
         <Footer />
       </div>

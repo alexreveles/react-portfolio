@@ -1,12 +1,21 @@
 html,
 body {
-  padding: 0;
-  background: #2f394d;
+  padding: 19px;
   font-family: sans-serif;
+  background-color: #2f394d;
+  padding:10px;
+  border:2px solid #2f394d;
+  
 }
-main {
+
+/* .body {
+  background-color: red;
+  
+} */
+
+/* main {
   background: #2f394d;
-}
+} */
 .background-image-banner {
   width: 100%;
   background: url("./assets/cover/background-image.jpeg");
@@ -43,7 +52,7 @@ button {
   cursor: pointer;
   color: #fff;
   background: #2f394d;
-  transition: background-color ease-in-out 0.5s, opacity;
+  transition:  ease-in-out 0.5s, opacity;
 }
 button:hover {
   background-color: #171c26;
@@ -92,6 +101,23 @@ textarea {
   width: 100%;
   position: fixed;
 } */
+
+.icon {
+  font-size: 30px;
+  display: flex;
+  justify-content: center;
+
+}
+
+
+.icon :hover {
+  font-size: 28px;
+  transition: box-shadow 0.2s;
+  background-color: #171c26;
+ 
+  
+}
+
 @media (prefers-reduced-motion: no-preference) {
   .App-logo {
     animation: App-logo-spin infinite 20s linear;
