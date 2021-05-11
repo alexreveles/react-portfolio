@@ -8,10 +8,10 @@ h1 .project-title {
   margin-left: 0em;
 }
 
-.card-project:hover {
-  /* background-color: rgba(74, 70, 70, 0.742); */
+/* .card-project:hover {
+  background-color: rgba(74, 70, 70, 0.742);
   opacity: 0.3;
-}
+} */
 
 .card-project {
   margin: 10%;

@@ -18,11 +18,13 @@ function Portfolio() {
           <div className="card-project">
             <a href="https://happy-happy-tails.herokuapp.com/">
               {/* <img src={happyTails} className="card-img-top" alt="happy-tails-project" /> */}
+              
               <img
                 src={require("../../assets/cover/happy-tails.png").default}
                 className="card-img-top"
                 alt="happy-tails-project"
               />
+              
             </a>
             <div className="card-body">
               <h5 className="card-title">Happy Tails</h5>
@@ -31,12 +33,15 @@ function Portfolio() {
                 Express.js | Handlebars | MySQL | RESTful API | ORM | Heroku |
                 brypt
               </p>
+              <a  href="https://happy-happy-tails.herokuapp.com/" role="button">
+              <button type="button" className="btn btn-outline-dark">Happy Tails Project</button>
+              </a>
             </div>
           </div>
         </div>
         <div className="col">
           <div className="card-project">
-            <a href=" https://alexreveles.github.io/movie-hunt-app/">
+            <a href="https://alexreveles.github.io/movie-hunt-app/">
               {/* <img
                 src={movieHunt}
                 className="card-img-top"
@@ -56,6 +61,9 @@ function Portfolio() {
                 <br />
                 <br />
               </p>
+              <a  href="https://alexreveles.github.io/movie-hunt-app/" role="button">
+              <button type="button" className="btn btn-outline-dark">Movie Hunt Project</button>
+              </a>
             </div>
           </div>
         </div>
@@ -76,6 +84,9 @@ function Portfolio() {
             <div className="card-body">
               <h5 className="card-title">Run Buddy</h5>
               <p className="card-text">CSS | HTML</p>
+              <a  href="https://alexreveles.github.io/run-buddy/" role="button">
+              <button type="button" className="btn btn-outline-dark">Run Buddy Project</button>
+              </a>
             </div>
           </div>
         </div>
@@ -98,6 +109,9 @@ function Portfolio() {
             <div className="card-body">
               <h5 className="card-title">Weather Dash Board</h5>
               <p className="card-text">HTML | CSS | Bootstrap | JavaScript</p>
+              <a  href="https://alexreveles.github.io/weather-dashboard" role="button">
+              <button type="button" className="btn btn-outline-dark">Weather Dashboard Project</button>
+              </a>
             </div>
           </div>
         </div>
@@ -122,6 +136,9 @@ function Portfolio() {
               <p className="card-text">
                 HTML | CSS | Bootstrap | jQuery | JavaScript
               </p>
+              <a  href="https://alexreveles.github.io/workday-scheduler/" role="button">
+              <button type="button" className="btn btn-outline-dark">Workdat Schedular Project</button>
+              </a>
             </div>
           </div>
         </div>
