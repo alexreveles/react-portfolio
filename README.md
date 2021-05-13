@@ -30,9 +30,8 @@ so that I can assess whether they're a good candidate for an open position.
 * [Github](https://github.com/alexreveles)
 * [Email](https://alexreveles@yahoo.com) alexreveles@yahoo.com
 
-
-### https://github.com/alexreveles/react-portfolio
 ### https://alexreveles.github.io/react-portfolio/
+### https://github.com/alexreveles/react-portfolio
 ### https://github.com/alexreveles
 
 ![](images/snapshot1.png)
