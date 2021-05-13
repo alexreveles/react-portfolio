@@ -2,7 +2,7 @@ import React from "react";
 import { BrowserRouter as Router, Route} from "react-router-dom";
 import "./App.css";
 import "bootstrap/dist/css/bootstrap.min.css";
-import Home from "./components/Home";
+// import Home from "./components/Home";
 import About from "./components/About";
 import Nav from "./components/Nav";
 import Portfolio from "./components/Portfolio";
@@ -19,11 +19,11 @@ function App() {
         <Nav></Nav>
         <main>
           <Route exact path="/" component={About} /> 
+        </main>
           <Route path="/resume" component={Resume} />
           <Route path="/about" component={About} />
           <Route path="/portfolio" component={Portfolio} />
           <Route path="/contact" component={Contact} />
-        </main>
         <Icons/>
        
       
