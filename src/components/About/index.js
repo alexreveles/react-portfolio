@@ -2,6 +2,7 @@ import React from "react";
 import coverImage from "../../assets/cover/me.JPG";
 import "./stylesheet.css";
 import ReactRoundedImage from "react-rounded-image";
+import pikesPeakImage from "../../assets/cover/pikes-peak.jpeg";
 
 function About() {
   return (
@@ -23,10 +24,8 @@ function About() {
         to build many small projects with my collegues and determined to solve
         complicated problems, testing methods, and using best practices. I am
         Seeking to leverage broad development experience and hands-on technical
-        expertise in a challenging role as a Project Manager, playing sports all
-        my life Ive learned to be not only a team player but also become a
-        leader, I truly have a passion to make sure i lead my team into success
-        and accomplish any task and deadlines on time.
+        expertise in a challenging role as a Associate Engineer, where i can apply
+         my newly learned skills and can assist a team in both the frontend and backend.
       </p>
     </section>
   );
