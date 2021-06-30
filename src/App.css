@@ -16,8 +16,12 @@ body {
 }
 .about {
   color: white;
-  margin: 2%;
   font-family: Georgia, "Times New Roman", Times, serif;
+  text-indent: 20px;
+  text-align: justify;
+  text-justify: distribute;
+  word-spacing: 4px;
+  /* margin: 2%; */
 }
 form {
   width: 90%;
