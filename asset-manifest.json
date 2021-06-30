@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/react-portfolio/static/css/main.66e6515b.chunk.css",
-    "main.js": "/react-portfolio/static/js/main.ede806ab.chunk.js",
-    "main.js.map": "/react-portfolio/static/js/main.ede806ab.chunk.js.map",
+    "main.css": "/react-portfolio/static/css/main.2b6e4606.chunk.css",
+    "main.js": "/react-portfolio/static/js/main.6b10a68a.chunk.js",
+    "main.js.map": "/react-portfolio/static/js/main.6b10a68a.chunk.js.map",
     "runtime-main.js": "/react-portfolio/static/js/runtime-main.61bd6063.js",
     "runtime-main.js.map": "/react-portfolio/static/js/runtime-main.61bd6063.js.map",
     "static/css/2.4c97ca4f.chunk.css": "/react-portfolio/static/css/2.4c97ca4f.chunk.css",
@@ -12,14 +12,14 @@
     "static/js/3.3f7986b6.chunk.js.map": "/react-portfolio/static/js/3.3f7986b6.chunk.js.map",
     "index.html": "/react-portfolio/index.html",
     "static/css/2.4c97ca4f.chunk.css.map": "/react-portfolio/static/css/2.4c97ca4f.chunk.css.map",
-    "static/css/main.66e6515b.chunk.css.map": "/react-portfolio/static/css/main.66e6515b.chunk.css.map",
+    "static/css/main.2b6e4606.chunk.css.map": "/react-portfolio/static/css/main.2b6e4606.chunk.css.map",
     "static/js/2.2958541b.chunk.js.LICENSE.txt": "/react-portfolio/static/js/2.2958541b.chunk.js.LICENSE.txt",
     "static/media/App.css": "/react-portfolio/static/media/background-image.6a7835ab.jpeg",
     "static/media/happy-tails.png": "/react-portfolio/static/media/happy-tails.4e5fe8fd.png",
     "static/media/happy-tailsV2.png": "/react-portfolio/static/media/happy-tailsV2.4886c2e8.png",
     "static/media/me.112e6baf.JPG": "/react-portfolio/static/media/me.112e6baf.JPG",
     "static/media/movie-hunt-app.png": "/react-portfolio/static/media/movie-hunt-app.fdb6b356.png",
-    "static/media/pikes-peak.3f0eb09a.jpeg": "/react-portfolio/static/media/pikes-peak.3f0eb09a.jpeg",
+    "static/media/stylesheet.css": "/react-portfolio/static/media/pikes-peak.3f0eb09a.jpeg",
     "static/media/run-buddy.png": "/react-portfolio/static/media/run-buddy.864d0b80.png",
     "static/media/weather-dashboard.png": "/react-portfolio/static/media/weather-dashboard.937eecc0.png",
     "static/media/workday-schedular.png": "/react-portfolio/static/media/workday-schedular.4b12776b.png"
@@ -28,7 +28,7 @@
     "static/js/runtime-main.61bd6063.js",
     "static/css/2.4c97ca4f.chunk.css",
     "static/js/2.2958541b.chunk.js",
-    "static/css/main.66e6515b.chunk.css",
-    "static/js/main.ede806ab.chunk.js"
+    "static/css/main.2b6e4606.chunk.css",
+    "static/js/main.6b10a68a.chunk.js"
   ]
 }
