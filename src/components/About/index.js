@@ -14,6 +14,8 @@ function About() {
         imageWidth="200"
         imageHeight="250"
       />
+      <br/>
+      <br/>
 
       <p>
         Hello and Welcome to my portfolio, my name is Alejandro Reveles I am
@@ -33,7 +35,9 @@ function About() {
         many friendships along the way, having many mentors will truly make me a
         succesful Full Stack Software Engineer.
       </p>
+     
     </section>
+    
   );
 }
 
