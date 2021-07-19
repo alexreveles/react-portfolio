@@ -38,6 +38,7 @@ function Resume() {
                   <br />
                   <br />
                   <br />
+                  <br />
                 </ul>
               </Card.Body>
             </Card>
@@ -57,6 +58,7 @@ function Resume() {
                   <li>Mongoose</li>
                   <li>REST</li>
                   <li>GraphQL</li>
+                  <br />
                   <br />
                   <br />
                   <br />
@@ -93,6 +95,9 @@ function Resume() {
                   <li>
                     UCLA Full Stack Developer - Certificate of Completion, June
                     6th, 2021.
+                  </li>
+                  <li>
+                    Link to resume -  <a className="resume" href="https://docs.google.com/document/d/1qWca6RKLGyPVpABcdoRHnd3cyZRyvpUPRiam3PqESxI/edit?usp=sharing" target="_blank"> "Resume" </a>
                   </li>
                 </ul>
               </Card.Body>

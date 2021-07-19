@@ -99,7 +99,9 @@ function ContactForm() {
                 )}
               </div>
             </Row>
+            <a className="contact" href="mailto:alexreveles@yahoo.com">
             <button type="submit">Submit</button>
+            </a>
           </form>
         </Container>
       </Jumbotron>
