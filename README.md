@@ -1,4 +1,6 @@
 ### React Portfolio ![Github License](https://img.shields.io/badge/license-MIT-red.svg)
+
+# Frontend Developer 
   
 ## Description
 As an employer looking for candidates with experience building single-page applications
