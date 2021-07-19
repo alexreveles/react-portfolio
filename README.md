@@ -1,9 +1,11 @@
 ### React Portfolio ![Github License](https://img.shields.io/badge/license-MIT-red.svg)
+
+# Frontend Developer 
   
 ## Description
 As an employer looking for candidates with experience building single-page applications
 I want to view a potential employee's deployed React portfolio of work samples
-so that I can assess whether they're a good candidate for an open position.
+so that I can assess whether they're a good candidate for an open position. I am then presented with a quick about me section describing who i am and what i do, then i showcase my projects followed by the application link for future employers to browse through my deployed projects. When clicking on contact me section, i am presented by a form where future employers are able to contact me through an email form, and finally a resume section describing my skills, any certificates and past employers. 
 
 
   ##  Table of Contents
