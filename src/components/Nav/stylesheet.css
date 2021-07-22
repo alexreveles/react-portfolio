@@ -8,9 +8,16 @@
   text-align: center;
   padding: 14px 16px;
 }
-a:hover {
-  color: #55678b;
+
+a {
+  color: rgb(20, 109, 164);
   text-decoration: none;
+  font-weight: bold;
+}
+a:hover {
+  color: rgb(37, 167, 247);
+  text-decoration: none;
+  font-weight: bold;
 }
 
 .navbar-light .navbar-nav .nav-link.active {
