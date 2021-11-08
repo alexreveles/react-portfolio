@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/react-portfolio/static/css/main.5c4987f7.chunk.css",
-    "main.js": "/react-portfolio/static/js/main.3d3b0a26.chunk.js",
-    "main.js.map": "/react-portfolio/static/js/main.3d3b0a26.chunk.js.map",
+    "main.js": "/react-portfolio/static/js/main.fad429ce.chunk.js",
+    "main.js.map": "/react-portfolio/static/js/main.fad429ce.chunk.js.map",
     "runtime-main.js": "/react-portfolio/static/js/runtime-main.519e7d9a.js",
     "runtime-main.js.map": "/react-portfolio/static/js/runtime-main.519e7d9a.js.map",
     "static/css/2.4c97ca4f.chunk.css": "/react-portfolio/static/css/2.4c97ca4f.chunk.css",
@@ -15,12 +15,12 @@
     "static/css/main.5c4987f7.chunk.css.map": "/react-portfolio/static/css/main.5c4987f7.chunk.css.map",
     "static/js/2.708e4eec.chunk.js.LICENSE.txt": "/react-portfolio/static/js/2.708e4eec.chunk.js.LICENSE.txt",
     "static/media/App.css": "/react-portfolio/static/media/background-image.6a7835ab.jpeg",
-    "static/media/happy-tails.png": "/react-portfolio/static/media/happy-tails.4e5fe8fd.png",
+    "static/media/happy-tails 2.png": "/react-portfolio/static/media/happy-tails 2.ecb6651f.png",
     "static/media/happy-tailsV2.png": "/react-portfolio/static/media/happy-tailsV2.4886c2e8.png",
     "static/media/me.112e6baf.JPG": "/react-portfolio/static/media/me.112e6baf.JPG",
     "static/media/movie-hunt-app.png": "/react-portfolio/static/media/movie-hunt-app.fdb6b356.png",
     "static/media/stylesheet.css": "/react-portfolio/static/media/pikes-peak.3f0eb09a.jpeg",
-    "static/media/run-buddy.png": "/react-portfolio/static/media/run-buddy.864d0b80.png",
+    "static/media/run-buddy 2.png": "/react-portfolio/static/media/run-buddy 2.44bd5c52.png",
     "static/media/weather-dashboard.png": "/react-portfolio/static/media/weather-dashboard.937eecc0.png",
     "static/media/workday-schedular.png": "/react-portfolio/static/media/workday-schedular.4b12776b.png"
   },
@@ -29,6 +29,6 @@
     "static/css/2.4c97ca4f.chunk.css",
     "static/js/2.708e4eec.chunk.js",
     "static/css/main.5c4987f7.chunk.css",
-    "static/js/main.3d3b0a26.chunk.js"
+    "static/js/main.fad429ce.chunk.js"
   ]
 }
