@@ -1,9 +1,9 @@
 import React from "react";
 import "./stylesheet.css";
-import happyTails from "../../assets/cover/happy-tails.png";
+import happyTails from "../../assets/cover/happy-tails 2.png";
 import happyTailsV2 from "../../assets/cover/happy-tailsV2.png";
 import movieHunt from "../../assets/cover/movie-hunt-app.png";
-import runBuddy from "../../assets/cover/run-buddy.png";
+import runBuddy from "../../assets/cover/run-buddy 2.png";
 import weatherDashboard from "../../assets/cover/weather-dashboard.png";
 import workdaySchedular from "../../assets/cover/workday-schedular.png";
 
@@ -53,7 +53,7 @@ function Portfolio() {
                 </button>
               </a>
               <br />
-              <br />
+              
               <a
                 href="https://github.com/alexreveles/happytails-v2"
                 target="_blank"
@@ -72,7 +72,7 @@ function Portfolio() {
               {/* <img src={happyTails} className="card-img-top" alt="happy-tails-project" /> */}
 
               <img
-                src={require("../../assets/cover/happy-tails.png").default}
+                src={require("../../assets/cover/happy-tails 2.png").default}
                 className="card-img-top"
                 alt="happy-tails-project"
               />
@@ -102,6 +102,7 @@ function Portfolio() {
               <br />
               <br />
               <br />
+              
               <a
                 href="https://github.com/alexreveles/happy-tails"
                 target="_blank"
@@ -179,7 +180,7 @@ function Portfolio() {
                 alt="run-buddy-project"
               /> */}
               <img
-                src={require("../../assets/cover/run-buddy.png").default}
+                src={require("../../assets/cover/run-buddy 2.png").default}
                 className="card-img-top"
                 alt="run-buddy-project"
               />
@@ -196,7 +197,7 @@ function Portfolio() {
               </p>
               <p className="card-text">CSS | HTML</p>
               <br />
-              <br />
+              
               <a
                 href="https://alexreveles.github.io/run-buddy/"
                 target="_blank"
